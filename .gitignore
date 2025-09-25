@@ -1,0 +1,13 @@
+# Arquivos compilados
+*.class
+
+# Pastas de build
+bin/
+out/
+
+# Dependências e pacotes
+*.jar
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
